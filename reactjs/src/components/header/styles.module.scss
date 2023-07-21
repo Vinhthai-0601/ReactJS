@@ -1,0 +1,14 @@
+.container {
+    background-color: teal;
+}
+.active{
+    .hover\:animate-bounce:hover {
+        animation: bounce 1s infinite;
+    }
+}
+
+@media screen and (max-height: 10vh) {
+    .navbar{
+        background-color: transparent;
+    }
+}
