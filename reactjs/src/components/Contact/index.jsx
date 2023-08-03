@@ -5,7 +5,7 @@ Contact.propTypes = {};
 
 function Contact(props) {
   return (
-    <div>
+    <div id="contact" class="py-20">
       <h1 class="font-bold text-5xl py-5">Contact</h1>
       <div class="flex flex-row gap-3 pb-5">
         <div class="basic-1/2 flex flex-row">
